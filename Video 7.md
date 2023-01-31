@@ -1,5 +1,5 @@
 # ***Rangkuman Video 7***
-# ***Git dan GitHub***
+# ***Merge Conflict***
 
 <p>&nbsp;<p>
 
